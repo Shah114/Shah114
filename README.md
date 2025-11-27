@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah114&label=Profile%20views&color=0e75b6&style=flat" alt="shah114" /> </p>
 
-- 🔭 I’m currently working on **AI Mentor**
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **Backend**
 
