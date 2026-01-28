@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A Software Engineer from Azerbaijan</h3>
 
+<img align="right" alt="Coding" width="400"
+src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?..."/>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah114&label=Profile%20views&color=0e75b6&style=flat" alt="shah114" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shah114" alt="shah114" /></a> </p>
