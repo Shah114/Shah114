@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A Software Engineer from Azerbaijan</h3>
 
-<img align="right" alt="Coding" width="400">
 
 <img align="right" alt="Coding" width="400" src="assets/coding.gif" />
 
